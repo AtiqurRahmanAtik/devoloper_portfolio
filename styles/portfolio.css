@@ -294,6 +294,7 @@ line-height: 28px; /* 175% */
   margin-top: 50px;
  position: absolute;
  left: 50%;
+ transform: translate(-50%);
 
 }
 
